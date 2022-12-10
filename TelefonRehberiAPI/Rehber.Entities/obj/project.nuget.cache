@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzk0SxkvUD/mnVW1i39KXVDJxt3+rvgeGi1lAKCSa4iy7PjhF5ypuemdFM0oAjwWU2mhYl0oDDMCU9+u96MU/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\TelefonRehberiAPI\\Rehber.Entities\\Rehber.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
